@@ -4,7 +4,5 @@
 <div align="center">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-<img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
