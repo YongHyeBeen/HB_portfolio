@@ -35,9 +35,13 @@
       ✔ 인원 : 개인 프로젝트<br>
   	</div>
 </details>
-<p align="center">
-  <img src="https://github.com/YongHyeBeen/HB_portfolio/issues/1#issue-2507810527">
+
+<p>
+  <img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470">
 </p>
+
+
+
 		
   
 
