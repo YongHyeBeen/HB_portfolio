@@ -27,7 +27,7 @@
 
 ### 📚 프로젝트 📚
 <details>
-	<summary><h4>네트워크 설계 및 구현<h4>/✨Click Me✨</summary>
+	<summary><h4>네트워크 설계 및 구현<h4>✨Click Me✨</summary>
   	<div markdown="1">
       ✔ 내용 : GNS3 프로그램을 이용한 네트워크 설계 및 구축<br>
       ✔ 프로토콜 : 게이트웨이 이중화(HSRP), OSPF, RIP, VLAN, STP, VTP<br>
@@ -40,13 +40,8 @@
   <img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470">
 </p>
 
-
-
-		
-  
-
 <details>
-	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축<h4>/✨Click Me✨</summary>
+	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축<h4>✨Click Me✨</summary>
   	<div markdown="1">
       ✔ 내용 : 미정<br>
       ✔ 기술 : 미정<br>
@@ -54,6 +49,27 @@
       ✔ 인원 : 개인 프로젝트<br>
   	</div>
 </details>
+
+<details>
+	<summary><h4>웹 데이터 크롤링<h4>✨Click Me✨</summary>
+  	<div markdown="1">
+      ✔ 내용 : 작성중<br>
+      ✔ 기술 : 작성중<br>
+      ✔ 기간 : 2024-- ~ 2024--<br>
+      ✔ 인원 : 개인 프로젝트<br>
+  	</div>
+</details>
+
+<details>
+	<summary><h4>파이썬을 이용한 Linux 서버 취약점 분석<h4>✨Click Me✨</summary>
+  	<div markdown="1">
+      ✔ 내용 : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드를 기반으로한 Linux 서버 취약점 점검 스크립트 제작<br>
+      ✔ 기술 : CentOS7, Python3, VMware<br>
+      ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
+      ✔ 인원 : 개인 프로젝트<br>
+  	</div>
+</details>
+		
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=footer&text=&fontSize=0" width="100%"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongHyeBeen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
