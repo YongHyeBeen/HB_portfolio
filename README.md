@@ -35,7 +35,12 @@
       ✔ 인원 : 개인 프로젝트<br>
   	</div>
 </details>
-    
+<p align="center">
+  <img src="https://github.com/YongHyeBeen/HB_portfolio/issues/1#issue-2507810527">
+</p>
+		
+  
+
 <details>
 	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축<h4>/✨Click Me✨</summary>
   	<div markdown="1">
