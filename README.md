@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=HyeBeen's%20Portfolio&fontSize=70&fontColor=8a14f)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=HyeBeen's%20Portfolio&fontSize=70&fontColor=513fd9&animation=fadeIn)
 ### 혜빈의 포트폴리오
 --------------------------------------------------------------------------------------------------------------------
 
