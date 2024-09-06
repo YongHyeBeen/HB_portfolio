@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/snort-F6A7AA?style=flate&logo=snort&logoColor=white"/>
 <img src="https://img.shields.io/badge/metasploit-2596CD?style=flate&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-8A2BE2?style=flate&logoColor=white"/>
+
+
 </div>
 
 ### 📔 언어 📔
