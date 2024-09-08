@@ -2,15 +2,12 @@
 
 <div align="center";><h2>🔐 용혜빈의 정보보안 포트폴리오 🔐</h2></div>
 
-
-
 ### 🛠 보유 스킬 🛠
 <div>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/snort-F6A7AA?style=flate&logo=snort&logoColor=white"/>
 <img src="https://img.shields.io/badge/metasploit-2596CD?style=flate&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-8A2BE2?style=flate&logoColor=white"/>
 
 
 </div>
