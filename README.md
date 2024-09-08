@@ -2,6 +2,11 @@
 
 <div align="center";><h2>🔐 용혜빈의 정보보안 포트폴리오 🔐</h2></div>
 
+
+### 📱 용혜빈 📱
+<a href="https://www.instagram.com/hyebeen97/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+
+
 ### 🛠 보유 스킬 🛠
 <div>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
