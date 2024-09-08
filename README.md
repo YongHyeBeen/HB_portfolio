@@ -63,7 +63,7 @@
       ✔ 기술 : CentOS7, Python3, VMware<br>
       ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_python_vulnerability_script" target="_blank">🔎자세히보기🔎</a>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_vulnerability_check_python_script" target="_blank">🔎자세히보기🔎</a>
   	</div>
 </details>
 
