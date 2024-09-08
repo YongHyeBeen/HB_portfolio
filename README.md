@@ -49,7 +49,7 @@
       ✔ 프로토콜 : 게이트웨이 이중화(HSRP), OSPF, RIP, VLAN, STP, VTP<br>
       ✔ 기간 : 2024-08-12 ~ 2024-08-22<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="">🔎자세히보기🔎
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/network_project_2024.08/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf">🔎자세히보기🔎
   	</div>
 </details>
 
