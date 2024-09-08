@@ -38,7 +38,7 @@
       ✔ 기간 : 2024-10-08 ~ 2024-10-23<br>
       ✔ 인원 : 6명<br>
       ✔ 역할 :
-      ✔ <a href=""target="blank">🔎자세히보기🔎
+      ✔ <a href=""target="_blank">🔎자세히보기🔎
   	</div>
 </details>
 
@@ -49,7 +49,7 @@
       ✔ 프로토콜 : 게이트웨이 이중화(HSRP), OSPF, RIP, VLAN, STP, VTP<br>
       ✔ 기간 : 2024-08-12 ~ 2024-08-22<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/network_project_2024.08/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf"target="blank">🔎자세히보기🔎
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/network_project_2024.08/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf"target="_blank">🔎자세히보기🔎
 	<p><img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470"></p>
   	</div>
 </details>
@@ -63,7 +63,7 @@
       ✔ 기술 : CentOS7, Python3, VMware<br>
       ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_python_vulnerability_script"target="blank">🔎자세히보기🔎
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_python_vulnerability_script"target="_blank">🔎자세히보기🔎
   	</div>
 </details>
 
@@ -74,7 +74,7 @@
       ✔ 기술 : 작성중<br>
       ✔ 기간 : 2024-- ~ 2024--<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href=""target="blank">🔎자세히보기🔎
+      ✔ <a href=""target="_blank">🔎자세히보기🔎
   	</div>
 </details>
 
