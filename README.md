@@ -67,10 +67,11 @@
 <details>
 	<summary><h4>파이썬을 이용한 Linux 서버 취약점 분석<h4>✨Click Me✨</summary>
   	<div markdown="1">
-      ✔ 내용 : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드 기반 Linux 서버 취약점 점검 스크립트 제작<br>
+      ✔ 내용 : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드 기반 Linux 서버 취약점 점검 파이썬 스크립트 제작<br>
       ✔ 기술 : CentOS7, Python3, VMware<br>
       ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
       ✔ 인원 : 개인 프로젝트<br>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_python_vulnerability_script">자세히보기🔎
   	</div>
 </details>
 		
