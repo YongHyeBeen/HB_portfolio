@@ -50,12 +50,13 @@
       ✔ 기간 : 2024-08-12 ~ 2024-08-22<br>
       ✔ 인원 : 개인 프로젝트<br>
       ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/network_project_2024.08/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf">🔎자세히보기🔎
+	<p>
+	  <img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470">
+	</p>
   	</div>
 </details>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470">
-</p>
+
 
 <details>
 	<summary><h4>파이썬을 이용한 Linux 서버 취약점 분석<h4>✨Click Me✨</summary>
