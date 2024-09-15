@@ -6,19 +6,27 @@
 ### 🛠 보유 스킬 🛠
 <div>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/fedora-51A2DA?style=flat&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/snort-F6A7AA?style=flate&logo=snort&logoColor=white"/>
 <img src="https://img.shields.io/badge/metasploit-2596CD?style=flate&logo=metasploit&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 
 </div>
 
 ### 📔 언어 📔
-
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
 
+
+### 📜 자격증 📜
+<div>
+<img src="https://img.shields.io/badge/정보처리기사-7B68EE" />
+</div>
 
 
 ### 🏃‍♀️ 교육 🏃‍♀️
