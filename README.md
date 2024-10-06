@@ -70,6 +70,7 @@
   	</div>
 </details>
 
+<!--
 <details>
 	<summary><h4>웹 데이터 크롤링<h4>✨Click Me✨</summary>
   	<div markdown="1">
@@ -80,7 +81,7 @@
       ✔ <a href="" target="_blank">🔎자세히보기🔎</a>
   	</div>
 </details>
-
+-->
 
 
 
