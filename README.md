@@ -49,8 +49,9 @@
 <details>
 	<summary><h4>네트워크 설계 및 구현<h4>✨Click Me✨</summary>
   	<div markdown="1">
+      ✔ 목표 : 보안이 강화된 네트워크 환경을 구축하여 정보 시스템의 성능과 안정성을 극대화한다.<br>
       ✔ 내용 : GNS3 프로그램을 이용한 네트워크 설계 및 구축<br>
-      ✔ 프로토콜 : 게이트웨이 이중화(HSRP), OSPF, RIP, VLAN, STP, VTP<br>
+      ✔ 기술 : 게이트웨이 이중화(HSRP) 및 부하 분산, OSPF, RIP, VLAN, STP, VTP<br>
       ✔ 기간 : 2024-08-12 ~ 2024-08-22<br>
       ✔ 인원 : 개인 프로젝트<br>
       ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.08_network_project/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank">🔎자세히보기🔎</a>
@@ -59,9 +60,10 @@
 </details>
 
 <details>
-	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축<h4>✨Click Me✨</summary>
+	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지<h4>✨Click Me✨</summary>
   	<div markdown="1">
-      ✔ 내용 : 미정<br>
+      ✔ 목표 : SNORT 로그와 Apache 로그를 통한 실시간 웹 서버 트래픽을 모니터링하여 이상 징후를 조기에 탐지한다. 수집된 로그 데이터를 가공 및 분석하여 보안 사고의 원인을 규명하고 향후 대책을 수립한다.<br>
+      ✔ 내용 : 기업 네트워크를 구축하고 웹 서비스를 제공하는 환경을 만든다. SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하여 데이터를 수집한다. 모니터링 시스템을 구축하고 실시간 트래픽을 확인하고 공격 및 이상 징후를 탐지한다.  <br>
       ✔ 기술 : 미정<br>
       ✔ 기간 : 2024-10-08 ~ 2024-10-23<br>
       ✔ 인원 : 6명<br>
