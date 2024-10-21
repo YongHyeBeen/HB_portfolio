@@ -51,7 +51,8 @@
       ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
       ✔ 인원 : 3명<br>
       ✔ 역할 : 프로젝트 매니저(팀장), 서버 엔지니어<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎자세히보기🔎</a>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎보고서 자세히보기🔎</a><br>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20IDS%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%ED%83%90%EC%A7%80_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">🔎PPT 자세히보기🔎</a>	
   	</div>
 </details>
 
