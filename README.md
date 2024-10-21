@@ -79,7 +79,6 @@
   	</div>
 </details>
 
-
 <!--
 <details>
 	<summary><h4>웹 데이터 크롤링<h4>✨Click Me✨</summary>
@@ -92,9 +91,6 @@
   	</div>
 </details>
 -->
-
-
-
 
 		
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=200&section=footer&text=&fontSize=0" width="100%"/>
