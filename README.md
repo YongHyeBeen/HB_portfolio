@@ -5,20 +5,22 @@
 
 ### 🛠 보유 스킬 🛠
 <div>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/centos-262577?style=flat&logo=centos&logoColor=white"/>
-<img src="https://img.shields.io/badge/fedora-51A2DA?style=flat&logo=fedora&logoColor=white"/>
-<img src="https://img.shields.io/badge/kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/snort-F6A7AA?style=flate&logo=snort&logoColor=white"/>
-<img src="https://img.shields.io/badge/metasploit-2596CD?style=flate&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/elasticstack-005571?style=flat&logo=elasticstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Centos-262577?style=flat&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kalilinux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snort-F6A7AA?style=flate&logo=snort&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flate&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticstack-005571?style=flat&logo=elasticstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/
 
 </div>
 
 ### 📔 언어 📔
 <div>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
 
 
@@ -38,8 +40,13 @@
 <details>
 	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지<h4>✨Click Me✨</summary>
   	<div markdown="1">
-      ✔ 목표 : SNORT 패킷 탐지 로그와 Apache 웹 로그를 통한 실시간 웹 서버 트래픽을 모니터링하여 이상 징후를 조기에 탐지한다.<br> 수집된 로그 데이터를 가공 및 분석하여 보안 사고의 원인을 규명하고 향후 대책을 수립한다.<br>
-      ✔ 내용 : 기업 네트워크를 구축하고 웹 서비스를 제공하는 환경을 만든다. SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하여 데이터를 수집한다. 모니터링 시스템을 구축하고 실시간 트래픽을 확인하고 공격 및 이상 징후를 탐지한다.  <br>
+      ✔ 목표<br> 
+	&emsp;&emsp;1️⃣ SNORT 패킷 탐지 로그와 Apache 웹 로그를 수집하여 트래픽을 실시간으로 모니터링하고, 이상 징후를 조기에 탐지한다.<br>
+	&emsp;&emsp;2️⃣ 수집된 로그 데이터를 가공 및 분석하여 보안 사고의 원인을 규명하고 향후 대책을 수립한다.<br>
+      ✔ 내용<br> 
+	&emsp;&emsp;1️⃣	기업 환경의 네트워크를 구축하고 웹 서비스 제공 환경을 만든다.<br>
+	&emsp;&emsp;2️⃣ SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하고 데이터를 수집한다.<br>
+	&emsp;&emsp;3️⃣ ELK 모니터링 시스템을 구축하고 실시간 트래픽을 시각화하여 공격 패턴 및 트래픽을 분석한다.  <br>
       ✔ 기술 : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA <br>
       ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
       ✔ 인원 : 3명<br>
