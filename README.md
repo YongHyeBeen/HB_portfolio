@@ -47,17 +47,20 @@
 	&emsp;&emsp;1️⃣	기업 환경의 네트워크를 구축하고 웹 서비스 제공 환경을 만든다.<br>
 	&emsp;&emsp;2️⃣ SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하고 데이터를 수집한다.<br>
 	&emsp;&emsp;3️⃣ ELK 모니터링 시스템을 구축하고 실시간 트래픽을 시각화하여 공격 패턴 및 트래픽을 분석한다.  <br>
-      ✔ 기술 : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA <br>
+      ✔ 기술 : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA<br>
       ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
       ✔ 인원 : 3명<br>
       ✔ 역할 : 프로젝트 매니저(팀장), 서버 엔지니어<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎보고서 자세히보기🔎</a>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎보고서 자세히보기🔎
+      </a>
 	<!-- 보고서 이미지 및 링크--><br>
 	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
-	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450"></a><br><br>
+	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450">
+	</a><br><br>
 	<!-- <p><img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0"width="450"</p><br><br> -->
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20IDS%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%ED%83%90%EC%A7%80_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">🔎PPT 자세히보기🔎</a>	
-  	</div>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20IDS%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%ED%83%90%EC%A7%80_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">🔎PPT 자세히보기🔎
+      </a>	
+      </div>
 	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20IDS%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%ED%83%90%EC%A7%80_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf" target="_blank">
 	<img src="https://github.com/user-attachments/assets/60fd3c59-5c25-4616-b191-1c2be2286fd6" width="450"></a><br>
 	<!--<p><img src="https://github.com/user-attachments/assets/60fd3c59-5c25-4616-b191-1c2be2286fd6" width="450"</p>-->
@@ -71,8 +74,11 @@
       ✔ 기술 : 게이트웨이 이중화(HSRP) 및 부하 분산, OSPF, RIP, VLAN, STP, VTP<br>
       ✔ 기간 : 2024-08-12 ~ 2024-08-22<br>
       ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.08_network_project/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank">🔎자세히보기🔎</a>
-	<p><img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470"></p>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.08_network_project/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank">🔎자세히보기🔎</a><br>
+	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.08_network_project/2024-08-22_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%A4%EA%B3%84%20%EB%B0%8F%20%EA%B5%AC%ED%98%84_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf" target="_blank">
+	<img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470">
+	</a>
+	<!--<p><img src="https://github.com/user-attachments/assets/41ffa6cd-721e-49ea-931b-805f8e9cd7c2" width="450" height="470"></p>-->
   	</div>
 </details>
 
