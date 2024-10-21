@@ -47,7 +47,7 @@
 	&emsp;&emsp;1️⃣	기업 환경의 네트워크를 구축하고 웹 서비스 제공 환경을 만든다.<br>
 	&emsp;&emsp;2️⃣ SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하고 데이터를 수집한다.<br>
 	&emsp;&emsp;3️⃣ ELK 모니터링 시스템을 구축하고 실시간 트래픽을 시각화하여 공격 패턴 및 트래픽을 분석한다.  <br>
-      ✔ <b>기술</b> : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA<br>
+      ✔ <b>기술</b> : Linux(CentOS7), Apache(httpd), DNS(bind), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA<br>
       ✔ <b>기간</b> : 2024-10-10 ~ 2024-10-22<br>
       ✔ <b>인원</b> : 3명<br>
       ✔ <b>역할</b> : 프로젝트 매니저(팀장), 서버 엔지니어<br>
