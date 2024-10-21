@@ -51,7 +51,7 @@
       ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
       ✔ 인원 : 3명<br>
       ✔ 역할 : 프로젝트 매니저(팀장), 서버 엔지니어<br>
-      ✔ <a href="2024.10_snort_NIDS_System/[모의해킹36기]SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지_최종본.pdf" target="_blank">🔎자세히보기🔎</a>
+      ✔ <a href="[2024.10_snort_NIDS_System/[모의해킹36기]SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지_최종본.pdf](https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20IDS%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%ED%83%90%EC%A7%80_%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)" target="_blank">🔎자세히보기🔎</a>
   	</div>
 </details>
 
