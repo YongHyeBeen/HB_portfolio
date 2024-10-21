@@ -36,13 +36,15 @@
 ### 🗂️ 프로젝트 🗂️
 
 <details>
-	<summary><h4>파이썬을 이용한 Linux 서버 취약점 분석<h4>✨Click Me✨</summary>
+	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지<h4>✨Click Me✨</summary>
   	<div markdown="1">
-      ✔ 내용 : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드 기반 Linux 서버 취약점 점검 파이썬 스크립트 제작<br>
-      ✔ 기술 : CentOS7, Python3, VMware<br>
-      ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
-      ✔ 인원 : 개인 프로젝트<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_vulnerability_check_python_script" target="_blank">🔎자세히보기🔎</a>
+      ✔ 목표 : SNORT 패킷 탐지 로그와 Apache 웹 로그를 통한 실시간 웹 서버 트래픽을 모니터링하여 이상 징후를 조기에 탐지한다. 수집된 로그 데이터를 가공 및 분석하여 보안 사고의 원인을 규명하고 향후 대책을 수립한다.<br>
+      ✔ 내용 : 기업 네트워크를 구축하고 웹 서비스를 제공하는 환경을 만든다. SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하여 데이터를 수집한다. 모니터링 시스템을 구축하고 실시간 트래픽을 확인하고 공격 및 이상 징후를 탐지한다.  <br>
+      ✔ 기술 : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA <br>
+      ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
+      ✔ 인원 : 3명<br>
+      ✔ 역할 : 프로젝트 매니저(팀장), 서버 엔지니어<br>
+      ✔ <a href="" target="_blank">🔎자세히보기🔎</a>
   	</div>
 </details>
 
@@ -60,17 +62,16 @@
 </details>
 
 <details>
-	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지<h4>✨Click Me✨</summary>
+	<summary><h4>파이썬을 이용한 Linux 서버 취약점 분석<h4>✨Click Me✨</summary>
   	<div markdown="1">
-      ✔ 목표 : SNORT 패킷 탐지 로그와 Apache 웹 로그를 통한 실시간 웹 서버 트래픽을 모니터링하여 이상 징후를 조기에 탐지한다. 수집된 로그 데이터를 가공 및 분석하여 보안 사고의 원인을 규명하고 향후 대책을 수립한다.<br>
-      ✔ 내용 : 기업 네트워크를 구축하고 웹 서비스를 제공하는 환경을 만든다. SNORT 서버를 구축하여 웹 서버와의 통신을 모니터링하여 데이터를 수집한다. 모니터링 시스템을 구축하고 실시간 트래픽을 확인하고 공격 및 이상 징후를 탐지한다.  <br>
-      ✔ 기술 : Linux(CentOS7), Apache(httpd), bind(DNS), MariaDB/MySQL, DVWA, SNORT, ElasticSearch, Logstash, KIBANA <br>
-      ✔ 기간 : 2024-10-10 ~ 2024-10-22<br>
-      ✔ 인원 : 3명<br>
-      ✔ 역할 : 프로젝트 매니저(팀장), 서버 엔지니어<br>
-      ✔ <a href="" target="_blank">🔎자세히보기🔎</a>
+      ✔ 내용 : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드 기반 Linux 서버 취약점 점검 파이썬 스크립트 제작<br>
+      ✔ 기술 : CentOS7, Python3, VMware<br>
+      ✔ 기간 : 2024-08-02 ~ 2024-10-23<br>
+      ✔ 인원 : 개인 프로젝트<br>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_vulnerability_check_python_script" target="_blank">🔎자세히보기🔎</a>
   	</div>
 </details>
+
 
 <!--
 <details>
