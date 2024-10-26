@@ -87,7 +87,7 @@
   	<div markdown="1">
       ✔ <b>내용</b> : 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드 기반 Linux 서버 취약점 점검 파이썬 스크립트 제작<br>
       ✔ <b>기술</b> : CentOS7, Python3, VMware<br>
-      ✔ <b>기간</b> : 2024-08-02 ~ 2024-10-23<br>
+      ✔ <b>기간</b> : 2024-08-02 ~ 작성중<br>
       ✔ <b>인원</b> : 개인 프로젝트<br>
       ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/tree/main/linux_vulnerability_check_python_script" target="_blank">🔎<b>자세히보기</b>🔎</a>
   	</div>
