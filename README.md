@@ -64,7 +64,7 @@
       ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.10_snort_NIDS_System/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%2036%EA%B8%B0_Snort_IDS_System_%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎<b>보고서 자세히보기</b>🔎
       </a>
 	<!-- 보고서 이미지 및 링크--><br>
-	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
+	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.10_snort_NIDS_System/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%2036%EA%B8%B0_Snort_IDS_System_%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
 	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450">
 	</a><br><br>
 	<!-- <p><img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0"width="450"</p><br><br> -->
