@@ -2,6 +2,13 @@
 
 <div align="center";><h2>🔐 용혜빈의 정보보안 포트폴리오 🔐</h2></div>
 
+### 🪄 블로그 🪄
+<div>
+<a href="https://yongodong.tistory.com/">
+	<img src="https://img.shields.io/badge/📝 블로그 바로가기 클릭 📝-7B68EE" />
+</a>
+</div>
+<br/>
 
 ### 🛠 보유 스킬 🛠
 <div>
@@ -15,25 +22,28 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/
+</div>   
 
-</div>
+<br><br>
 
 ### 📔 언어 📔
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 </div>
-
+<br>
 
 ### 📜 자격증 📜
 <div>
 <img src="https://img.shields.io/badge/정보처리기사-7B68EE" />
 </div>
-
+<br>
 
 ### 🏃‍♀️ 교육 🏃‍♀️
 |교육 기간|교육명|교육기관|교육내용|
 |-----|-----|-----|-----|
-|2024-04-24 ~ 2024.10.23|**모의해킹 솔루션 구축 및 운영**|한국정보기술연구원|모의해킹, 취약점진단|
+|2024-04-24 ~ 2024.10.23|**모의해킹 솔루션 구축 및 운영**|한국정보기술연구원|모의해킹, 취약점진단|  
+
+<br>
 
 ### 🗂️ 프로젝트 🗂️
 
