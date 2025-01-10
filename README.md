@@ -62,6 +62,7 @@
 	<a href="ttps://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.19-2025.01.10.pdf" target="_blank">
 	<img src="https://github.com/user-attachments/assets/a2fb2de7-d17d-473e-b36c-0571709170ea" width="450">
 	</a><br><br>
+	</div>
 </details>
 
 <details>
