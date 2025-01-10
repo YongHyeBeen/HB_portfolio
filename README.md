@@ -12,6 +12,7 @@
 
 ### 🛠 보유 스킬 🛠
 <div>
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat&logo=BurpSuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Centos-262577?style=flat&logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white"/>
