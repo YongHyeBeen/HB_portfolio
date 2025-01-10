@@ -61,7 +61,7 @@
       </a>
 	<!-- 보고서 이미지 및 링크--><br>
 	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.19-2025.01.10.pdf" target="_blank">
-	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450">
+	<img src="https://github.com/user-attachments/assets/ffa68b9c-ffda-4edf-b6c2-f761a9315f3e" width="450">
 	</a><br><br>
 </details>
 
