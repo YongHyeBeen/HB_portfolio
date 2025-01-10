@@ -48,6 +48,24 @@
 ### 🗂️ 프로젝트 🗂️
 
 <details>
+	<summary><h4>웹 모의해킹 기술 실습 보고서<h4>✨Click Me✨</summary>
+  	<div markdown="1">
+      ✔ <b>목표</b><br> 
+	&emsp;&emsp;🔐 모의해킹 기술 실습을 통해 보안 취약점을 분석하고 공격을 시도한 뒤 문제 해결 방안을 제시한다.<br>
+	&emsp;&emsp;🔐 실무에 필요한 기술을 체계적으로 습득하는 것을 목표로 한다.<br>
+	&emsp;&emsp;🔐 보고서 작성 능력을 향상시켜 향후 보안 컨설팅 및 리포팅 과정에서 전문성을 발휘할 수 있도록 한다.	<br>
+      ✔ <b>기술</b> : Kali Linux, bWAPP, DVWA, Apache, PHP, BurpSuite, nicto, sqlmap, BeEF, ysoserial, metasploit, tcpdump <br>
+      ✔ <b>기간</b> : 2024-12-23 ~ 2025-01-10<br>
+      ✔ <b>대상</b> : 172.31.58.11(개인네트워크)<br>
+      ✔ <a href="" target="_blank">🔎<b>보고서 자세히보기</b>🔎
+      </a>
+	<!-- 보고서 이미지 및 링크--><br>
+	<a href="" target="_blank">
+	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450">
+	</a><br><br>
+</details>
+
+<details>
 	<summary><h4>SNORT를 활용한 IDS 모니터링 시스템 구축 및 탐지<h4>✨Click Me✨</summary>
   	<div markdown="1">
       ✔ <b>목표</b><br> 
@@ -64,7 +82,7 @@
       ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.10_snort_NIDS_System/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%2036%EA%B8%B0_Snort_IDS_System_%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">🔎<b>보고서 자세히보기</b>🔎
       </a>
 	<!-- 보고서 이미지 및 링크--><br>
-	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/6b7d3c226fac2f4326207678eb314a3dabb2c0a6/2024.10_snort_NIDS_System/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B936%EA%B8%B0%5DSNORT_IDS_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
+	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2024.10_snort_NIDS_System/%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%2036%EA%B8%B0_Snort_IDS_System_%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf" target="_blank">
 	<img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0" width="450">
 	</a><br><br>
 	<!-- <p><img src="https://github.com/user-attachments/assets/52cc0005-564f-48fd-aa02-bd321f982ed0"width="450"</p><br><br> -->
