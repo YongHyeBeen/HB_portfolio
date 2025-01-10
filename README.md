@@ -58,9 +58,9 @@
       ✔ <b>기술</b> : Kali Linux, bWAPP, DVWA, Apache, PHP, BurpSuite, nicto, sqlmap, BeEF, ysoserial, metasploit, tcpdump <br>
       ✔ <b>기간</b> : 2024-12-23 ~ 2025-01-10<br>
       ✔ <b>대상</b> : 172.31.58.11(개인네트워크)<br>
-      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.19-2025.01.10.pdf" target="_blank">🔎<b>보고서 자세히보기</b>🔎</a>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.23%20-%202025.01.10.pdf" target="_blank">🔎<b>보고서 자세히보기</b>🔎</a>
 	<!-- 보고서 이미지 및 링크--><br>
-	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.19-2025.01.10.pdf" target="_blank">
+	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5B%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EA%B8%B0%EC%88%A0%20%EC%8B%A4%EC%8A%B5%20%EB%B3%B4%EA%B3%A0%EC%84%9C%5D%202024.12.23%20-%202025.01.10.pdf" target="_blank">
 	<img src="https://github.com/user-attachments/assets/a2fb2de7-d17d-473e-b36c-0571709170ea" width="450">
 	</a><br><br>
 	</div>
