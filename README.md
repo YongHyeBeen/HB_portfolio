@@ -49,6 +49,23 @@
 ### 🗂️ 프로젝트 🗂️
 
 <details>
+	<summary><h4>SQL 인젝션 모의해킹 시나리오 실습<h4>✨Click Me✨</summary>
+  	<div markdown="1">
+      ✔ <b>목표</b><br> 
+	&emsp;&emsp;🔐 SQL 인젝션 취약점을 이용해 웹쉘을 삽입하고 시스템에 침투한다.<br>
+	&emsp;&emsp;🔐 모의해킹의 수행 단계를 이해하고, 실습하며 기술을 습득한다.<br>
+      ✔ <b>기술</b> : Kali Linux, pentesterlab - From SQL Injection to Shell, PHP, BurpSuite, nicto, sqlmap<br>
+      ✔ <b>기간</b> : 2025-01-15<br>
+      ✔ <b>대상</b> : 192.168.111.133(개인네트워크)<br>
+      ✔ <a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5BSQL%20%EC%9D%B8%EC%A0%9D%EC%85%98%20%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EC%8B%A4%EC%8A%B5%5D%202025.01.15.pdf" target="_blank">🔎<b>보고서 자세히보기</b>🔎</a>
+	<!-- 보고서 이미지 및 링크--><br>
+	<a href="https://github.com/YongHyeBeen/HB_portfolio/blob/main/2025.01_%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9_%EA%B8%B0%EC%88%A0_%EC%8B%A4%EC%8A%B5_%EB%B3%B4%EA%B3%A0%EC%84%9C/%5BSQL%20%EC%9D%B8%EC%A0%9D%EC%85%98%20%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EC%8B%A4%EC%8A%B5%5D%202025.01.15.pdf" target="_blank">
+	<img src="https://github.com/user-attachments/assets/d981f8b0-c103-4bff-a1c4-d6a407fde6a5" width="450">
+	</a><br><br>
+	</div>
+</details>
+
+<details>
 	<summary><h4>웹 모의해킹 기술 실습 보고서<h4>✨Click Me✨</summary>
   	<div markdown="1">
       ✔ <b>목표</b><br> 
